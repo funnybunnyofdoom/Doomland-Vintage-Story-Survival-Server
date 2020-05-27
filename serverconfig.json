@@ -31,7 +31,7 @@
   "NextPlayerGroupUid": 12,
   "GroupChatHistorySize": 20,
   "MaxOwnedGroupChannelsPerUser": 10,
-  "ServerName": "[US EAST] Doomland /rtp /spawn daytime for new players ",
+  "ServerName": "[US EAST] Doomland /rtp /spawn daytime for new players",
   "ServerUrl": null,
   "ServerDescription": "Custom /rtp and /spawn commands, daytime when new players join!",
   "WelcomeMessage": "Welcome {0}, may you survive well and prosper",
@@ -333,6 +333,35 @@
       },
       "LandClaimMaxAreas": 99999,
       "AutoGrant": true
+    },
+    {
+      "Code": "member",
+      "Name": "Member",
+      "Description": "Can use/place/break blocks in unprotected areas (priv level 0), create/manage player groups and chat. Can claim an area of up to 8 chunks.",
+      "PrivilegeLevel": 0,
+      "DefaultSpawn": null,
+      "ForcedSpawn": null,
+      "Privileges": [
+        "controlplayergroups",
+        "manageplayergroups",
+        "chat",
+        "areamodify",
+        "build",
+        "useblock",
+        "attackcreatures",
+        "attackplayers"
+      ],
+      "RuntimePrivileges": [],
+      "DefaultGameMode": 1,
+      "Color": "White",
+      "LandClaimAllowance": 786432,
+      "LandClaimMinSize": {
+        "X": 5,
+        "Y": 5,
+        "Z": 5
+      },
+      "LandClaimMaxAreas": 10,
+      "AutoGrant": false
     }
   ],
   "DefaultRoleCode": "suplayer",
