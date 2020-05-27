@@ -1,0 +1,20 @@
+[
+  {
+    "Uid": 10,
+    "Name": "bunny",
+    "CreatedDate": "Saturday, 02 May 2020",
+    "OwnerUID": "jIiNTlvJ9nEPtAGZ2MulVtjc",
+    "ChatHistory": [],
+    "Md5Identifier": "2d4c6e3551b2cb193e59fbd7891eba6a",
+    "CreatedByPrivateMessage": false
+  },
+  {
+    "Uid": 11,
+    "Name": "Blue",
+    "CreatedDate": "Monday, 11 May 2020",
+    "OwnerUID": "WG6AcBXbRhPXRCht2V+LmaHJ",
+    "ChatHistory": [],
+    "Md5Identifier": "484c7521334ab49588d4d71d419f7155",
+    "CreatedByPrivateMessage": false
+  }
+]

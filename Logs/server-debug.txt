@@ -1,0 +1,28 @@
+27.5.2020 07:00:06 [VerboseDebug] [VSCreativeMod.dll] Check for mod systems in mod /home/88749/userdata/vintage-story/Mods/VSCreativeMod.dll
+27.5.2020 07:00:06 [VerboseDebug] [VSCreativeMod.dll] Loaded assembly /home/88749/userdata/vintage-story/Mods/VSCreativeMod.dll
+27.5.2020 07:00:06 [VerboseDebug] [VSEssentials.dll] Check for mod systems in mod /home/88749/userdata/vintage-story/Mods/VSEssentials.dll
+27.5.2020 07:00:06 [VerboseDebug] [VSEssentials.dll] Loaded assembly /home/88749/userdata/vintage-story/Mods/VSEssentials.dll
+27.5.2020 07:00:06 [VerboseDebug] [VSSurvivalMod.dll] Check for mod systems in mod /home/88749/userdata/vintage-story/Mods/VSSurvivalMod.dll
+27.5.2020 07:00:06 [VerboseDebug] [VSSurvivalMod.dll] Loaded assembly /home/88749/userdata/vintage-story/Mods/VSSurvivalMod.dll
+27.5.2020 07:00:06 [VerboseDebug] [jrtp] Successfully compiled 1 source files
+27.5.2020 07:00:06 [VerboseDebug] [risingsun] Successfully compiled 1 source files
+27.5.2020 07:00:07 [VerboseDebug] [simplespawn] Successfully compiled 1 source files
+27.5.2020 07:00:07 [VerboseDebug] 6 assemblies loaded
+27.5.2020 07:00:07 [VerboseDebug] Instantiate mod systems for
+27.5.2020 07:00:07 [VerboseDebug] Instantiate mod systems for
+27.5.2020 07:00:07 [VerboseDebug] Instantiate mod systems for
+27.5.2020 07:00:07 [VerboseDebug] Instantiate mod systems for
+27.5.2020 07:00:07 [VerboseDebug] Instantiate mod systems for
+27.5.2020 07:00:07 [VerboseDebug] Instantiate mod systems for
+27.5.2020 07:00:14 [Debug] BlockID Remapper: Begin
+27.5.2020 07:00:14 [Debug] Block IDs loaded from savegame.
+27.5.2020 07:00:15 [Debug] Found 0 block requiring remapping
+27.5.2020 07:00:15 [Debug] Remapped 0 new blockids
+27.5.2020 07:00:15 [Debug] Found 0 missing blocks
+27.5.2020 07:00:15 [Debug] Block IDs have been written to savegame
+27.5.2020 07:00:15 [Debug] ItemID Remapper: Begin
+27.5.2020 07:00:15 [Debug] Item IDs loaded from savegame.
+27.5.2020 07:00:15 [Debug] Found 0 Item requiring remapping
+27.5.2020 07:00:15 [Debug] Remapped 0 new Itemids
+27.5.2020 07:00:15 [Debug] Found 0 missing Items
+27.5.2020 07:00:15 [Debug] Item IDs have been written to savegame

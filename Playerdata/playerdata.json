@@ -1,0 +1,212 @@
+[
+  {
+    "PlayerUID": "jIiNTlvJ9nEPtAGZ2MulVtjc",
+    "RoleCode": "admin",
+    "PermaPrivileges": [],
+    "DeniedPrivileges": [],
+    "PlayerGroupMemberShips": {
+      "10": {
+        "Level": 3,
+        "GroupName": "bunny",
+        "GroupUid": 10
+      }
+    },
+    "AllowInvite": true,
+    "LastKnownPlayername": "Funnybunnyofdoom",
+    "CustomPlayerData": {},
+    "ExtraLandClaimAllowance": 0,
+    "ExtraLandClaimAreas": 0
+  },
+  {
+    "PlayerUID": "Z7IQe/SDuX7DbZtVpGzjIdmz",
+    "RoleCode": "suplayer",
+    "PermaPrivileges": [],
+    "DeniedPrivileges": [],
+    "PlayerGroupMemberShips": {},
+    "AllowInvite": true,
+    "LastKnownPlayername": "Buster",
+    "CustomPlayerData": {},
+    "ExtraLandClaimAllowance": 0,
+    "ExtraLandClaimAreas": 0
+  },
+  {
+    "PlayerUID": "3caq8+ikI7iC1gIHQL8d0olD",
+    "RoleCode": "suplayer",
+    "PermaPrivileges": [],
+    "DeniedPrivileges": [],
+    "PlayerGroupMemberShips": {},
+    "AllowInvite": true,
+    "LastKnownPlayername": "Saphrym",
+    "CustomPlayerData": {},
+    "ExtraLandClaimAllowance": 0,
+    "ExtraLandClaimAreas": 0
+  },
+  {
+    "PlayerUID": "2Ae1WkZfyr1ZkE8TD0DpQVrN",
+    "RoleCode": "suplayer",
+    "PermaPrivileges": [],
+    "DeniedPrivileges": [],
+    "PlayerGroupMemberShips": {},
+    "AllowInvite": true,
+    "LastKnownPlayername": "Kayothic",
+    "CustomPlayerData": {},
+    "ExtraLandClaimAllowance": 0,
+    "ExtraLandClaimAreas": 0
+  },
+  {
+    "PlayerUID": "ZS5f9p4Wdb8ssjf+1zmRAWPx",
+    "RoleCode": "suplayer",
+    "PermaPrivileges": [],
+    "DeniedPrivileges": [],
+    "PlayerGroupMemberShips": {},
+    "AllowInvite": true,
+    "LastKnownPlayername": "Unianonanymity",
+    "CustomPlayerData": {},
+    "ExtraLandClaimAllowance": 0,
+    "ExtraLandClaimAreas": 0
+  },
+  {
+    "PlayerUID": "oCSW+RKQiu8Rdj/FUpFVI6L9",
+    "RoleCode": "suplayer",
+    "PermaPrivileges": [],
+    "DeniedPrivileges": [],
+    "PlayerGroupMemberShips": {},
+    "AllowInvite": true,
+    "LastKnownPlayername": "Jarla",
+    "CustomPlayerData": {},
+    "ExtraLandClaimAllowance": 0,
+    "ExtraLandClaimAreas": 0
+  },
+  {
+    "PlayerUID": "qQ4T54AzmQ5KnrEBwYmYFGZs",
+    "RoleCode": "suplayer",
+    "PermaPrivileges": [],
+    "DeniedPrivileges": [],
+    "PlayerGroupMemberShips": {},
+    "AllowInvite": true,
+    "LastKnownPlayername": "MintYogi",
+    "CustomPlayerData": {},
+    "ExtraLandClaimAllowance": 0,
+    "ExtraLandClaimAreas": 0
+  },
+  {
+    "PlayerUID": "FV+8mTIwljAwNi72dfKQVqDu",
+    "RoleCode": "suplayer",
+    "PermaPrivileges": [],
+    "DeniedPrivileges": [],
+    "PlayerGroupMemberShips": {},
+    "AllowInvite": true,
+    "LastKnownPlayername": "AlteOgre",
+    "CustomPlayerData": {},
+    "ExtraLandClaimAllowance": 0,
+    "ExtraLandClaimAreas": 0
+  },
+  {
+    "PlayerUID": "Vw8mkRcInTi6kFtY8gUXt8lc",
+    "RoleCode": "suplayer",
+    "PermaPrivileges": [],
+    "DeniedPrivileges": [],
+    "PlayerGroupMemberShips": {},
+    "AllowInvite": true,
+    "LastKnownPlayername": "Claire0blood",
+    "CustomPlayerData": {},
+    "ExtraLandClaimAllowance": 0,
+    "ExtraLandClaimAreas": 0
+  },
+  {
+    "PlayerUID": "WG6AcBXbRhPXRCht2V+LmaHJ",
+    "RoleCode": "suplayer",
+    "PermaPrivileges": [],
+    "DeniedPrivileges": [],
+    "PlayerGroupMemberShips": {
+      "11": {
+        "Level": 3,
+        "GroupName": "Blue",
+        "GroupUid": 11
+      }
+    },
+    "AllowInvite": true,
+    "LastKnownPlayername": "Bluarianknight",
+    "CustomPlayerData": {},
+    "ExtraLandClaimAllowance": 0,
+    "ExtraLandClaimAreas": 0
+  },
+  {
+    "PlayerUID": "QucnOQLXFioB/RhStkg4N+Hp",
+    "RoleCode": "suplayer",
+    "PermaPrivileges": [],
+    "DeniedPrivileges": [],
+    "PlayerGroupMemberShips": {
+      "11": {
+        "Level": 1,
+        "GroupName": "Blue",
+        "GroupUid": 11
+      }
+    },
+    "AllowInvite": true,
+    "LastKnownPlayername": "GrayHeart",
+    "CustomPlayerData": {},
+    "ExtraLandClaimAllowance": 0,
+    "ExtraLandClaimAreas": 0
+  },
+  {
+    "PlayerUID": "ajgyyoIB/Uj4eiTfKBUQnPAn",
+    "RoleCode": "suplayer",
+    "PermaPrivileges": [],
+    "DeniedPrivileges": [],
+    "PlayerGroupMemberShips": {},
+    "AllowInvite": true,
+    "LastKnownPlayername": "McPoof",
+    "CustomPlayerData": {},
+    "ExtraLandClaimAllowance": 0,
+    "ExtraLandClaimAreas": 0
+  },
+  {
+    "PlayerUID": "DjsN4hHprFqb1yeDchPCd1aj",
+    "RoleCode": "suplayer",
+    "PermaPrivileges": [],
+    "DeniedPrivileges": [],
+    "PlayerGroupMemberShips": {},
+    "AllowInvite": true,
+    "LastKnownPlayername": "Ekaj",
+    "CustomPlayerData": {},
+    "ExtraLandClaimAllowance": 0,
+    "ExtraLandClaimAreas": 0
+  },
+  {
+    "PlayerUID": "tuCSbdn7HPn4K8Gh8daq88HJ",
+    "RoleCode": "suplayer",
+    "PermaPrivileges": [],
+    "DeniedPrivileges": [],
+    "PlayerGroupMemberShips": {},
+    "AllowInvite": true,
+    "LastKnownPlayername": "Metusalix",
+    "CustomPlayerData": {},
+    "ExtraLandClaimAllowance": 0,
+    "ExtraLandClaimAreas": 0
+  },
+  {
+    "PlayerUID": "uffdh/yFY7qlyIAB1SNLUGW7",
+    "RoleCode": "suplayer",
+    "PermaPrivileges": [],
+    "DeniedPrivileges": [],
+    "PlayerGroupMemberShips": {},
+    "AllowInvite": true,
+    "LastKnownPlayername": "oSlIk",
+    "CustomPlayerData": {},
+    "ExtraLandClaimAllowance": 0,
+    "ExtraLandClaimAreas": 0
+  },
+  {
+    "PlayerUID": "/vaKSdipZe8oOiULSiN+C1wP",
+    "RoleCode": "suplayer",
+    "PermaPrivileges": [],
+    "DeniedPrivileges": [],
+    "PlayerGroupMemberShips": {},
+    "AllowInvite": true,
+    "LastKnownPlayername": "zSHELBIz",
+    "CustomPlayerData": {},
+    "ExtraLandClaimAllowance": 0,
+    "ExtraLandClaimAreas": 0
+  }
+]

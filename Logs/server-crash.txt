@@ -1,0 +1,44 @@
+Version: v1.12.14 (Stable)05/01/2020 11:56:26: Critical error occurred
+System.Net.Sockets.SocketException (0x80004005): The requested address is not valid in this context
+  at System.Net.Sockets.Socket.Bind (System.Net.EndPoint localEP) [0x0004c] in <bd46d4d4f7964dfa9beea098499ab597>:0 
+  at Vintagestory.Server.ServerNetManager.StartServer (System.Int32 port, System.String ipAddress) [0x0007d] in <2d6eef6f99694be1be89f6f6b9c7766e>:0 
+  at Vintagestory.Server.TcpNetServer.Start () [0x00000] in <2d6eef6f99694be1be89f6f6b9c7766e>:0 
+  at Vintagestory.Server.ServerMain.AfterSaveGameLoaded () [0x000f7] in <2d6eef6f99694be1be89f6f6b9c7766e>:0 
+  at Vintagestory.Server.ServerMain.Launch () [0x00207] in <2d6eef6f99694be1be89f6f6b9c7766e>:0 
+  at ‫⁫⁪‮⁮‭⁯‮‍⁮‎⁬‪⁬‬‏‫‫‪‏‪⁮⁪‫⁮⁫⁭‍⁭‪‪‌⁮‏‌‭​‫⁫⁪‮.⁫‌‎‍‍‬⁭‬⁬‎‮‫​‬‪‮‍‬‌‫⁮⁯‭‎⁮‍‌⁬‪⁫⁬⁮⁬⁫‌⁫‌⁪⁯‎‮ () [0x000b8] in <85734aee8cec445d9df00e27496d9599>:0 
+  at _xmrDk9pogtvR6xvbzmBc2dtFsbu._tyidesQGCE1oKHv8YEo8HwYCSty (System.Threading.ThreadStart ) [0x00007] in <2d6eef6f99694be1be89f6f6b9c7766e>:0 
+-------------------------------
+Version: v1.12.14 (Stable)05/01/2020 11:59:37: Critical error occurred
+System.Net.Sockets.SocketException (0x80004005): The requested address is not valid in this context
+  at System.Net.Sockets.Socket.Bind (System.Net.EndPoint localEP) [0x0004c] in <bd46d4d4f7964dfa9beea098499ab597>:0 
+  at Vintagestory.Server.ServerNetManager.StartServer (System.Int32 port, System.String ipAddress) [0x0007d] in <2d6eef6f99694be1be89f6f6b9c7766e>:0 
+  at Vintagestory.Server.TcpNetServer.Start () [0x00000] in <2d6eef6f99694be1be89f6f6b9c7766e>:0 
+  at Vintagestory.Server.ServerMain.AfterSaveGameLoaded () [0x000f7] in <2d6eef6f99694be1be89f6f6b9c7766e>:0 
+  at Vintagestory.Server.ServerMain.Launch () [0x00207] in <2d6eef6f99694be1be89f6f6b9c7766e>:0 
+  at ‫⁫⁪‮⁮‭⁯‮‍⁮‎⁬‪⁬‬‏‫‫‪‏‪⁮⁪‫⁮⁫⁭‍⁭‪‪‌⁮‏‌‭​‫⁫⁪‮.⁫‌‎‍‍‬⁭‬⁬‎‮‫​‬‪‮‍‬‌‫⁮⁯‭‎⁮‍‌⁬‪⁫⁬⁮⁬⁫‌⁫‌⁪⁯‎‮ () [0x000b8] in <85734aee8cec445d9df00e27496d9599>:0 
+  at _xmrDk9pogtvR6xvbzmBc2dtFsbu._tyidesQGCE1oKHv8YEo8HwYCSty (System.Threading.ThreadStart ) [0x00007] in <2d6eef6f99694be1be89f6f6b9c7766e>:0 
+-------------------------------
+Version: v1.12.14 (Stable)05/01/2020 12:02:21: Critical error occurred
+Newtonsoft.Json.JsonReaderException: Input string '64.74.111.1' is not a valid number. Path 'Ip', line 38, position 19.
+  at Newtonsoft.Json.JsonTextReader.ParseNumber (Newtonsoft.Json.ReadType readType) [0x00540] in <5753133c467642479854e5d6c1dc2798>:0 
+  at Newtonsoft.Json.JsonTextReader.ReadStringValue (Newtonsoft.Json.ReadType readType) [0x001fa] in <5753133c467642479854e5d6c1dc2798>:0 
+  at Newtonsoft.Json.JsonTextReader.ReadAsString () [0x00000] in <5753133c467642479854e5d6c1dc2798>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType (Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonContract contract, System.Boolean hasConverter) [0x0006a] in <5753133c467642479854e5d6c1dc2798>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject (System.Object newObject, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonObjectContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.String id) [0x001f2] in <5753133c467642479854e5d6c1dc2798>:0 
+-------------------------------
+Version: v1.12.14 (Stable)05/01/2020 12:02:26: Critical error occurred
+Newtonsoft.Json.JsonReaderException: Input string '64.74.111.1' is not a valid number. Path 'Ip', line 38, position 19.
+  at Newtonsoft.Json.JsonTextReader.ParseNumber (Newtonsoft.Json.ReadType readType) [0x00540] in <5753133c467642479854e5d6c1dc2798>:0 
+  at Newtonsoft.Json.JsonTextReader.ReadStringValue (Newtonsoft.Json.ReadType readType) [0x001fa] in <5753133c467642479854e5d6c1dc2798>:0 
+  at Newtonsoft.Json.JsonTextReader.ReadAsString () [0x00000] in <5753133c467642479854e5d6c1dc2798>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType (Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonContract contract, System.Boolean hasConverter) [0x0006a] in <5753133c467642479854e5d6c1dc2798>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject (System.Object newObject, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonObjectContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.String id) [0x001f2] in <5753133c467642479854e5d6c1dc2798>:0 
+-------------------------------
+Version: v1.12.14 (Stable)05/01/2020 12:02:32: Critical error occurred
+Newtonsoft.Json.JsonReaderException: Input string '64.74.111.1' is not a valid number. Path 'Ip', line 38, position 19.
+  at Newtonsoft.Json.JsonTextReader.ParseNumber (Newtonsoft.Json.ReadType readType) [0x00540] in <5753133c467642479854e5d6c1dc2798>:0 
+  at Newtonsoft.Json.JsonTextReader.ReadStringValue (Newtonsoft.Json.ReadType readType) [0x001fa] in <5753133c467642479854e5d6c1dc2798>:0 
+  at Newtonsoft.Json.JsonTextReader.ReadAsString () [0x00000] in <5753133c467642479854e5d6c1dc2798>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType (Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonContract contract, System.Boolean hasConverter) [0x0006a] in <5753133c467642479854e5d6c1dc2798>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject (System.Object newObject, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonObjectContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.String id) [0x001f2] in <5753133c467642479854e5d6c1dc2798>:0 
+-------------------------------

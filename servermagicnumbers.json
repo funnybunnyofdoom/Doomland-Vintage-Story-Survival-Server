@@ -1,0 +1,23 @@
+{
+  "Comment": "You can use this config to increase/lower the cpu and network load of the server. A Warning though: Changing these numbers might make your server run unstable or slow. Use at your own risk! Until there is an official documentation, feel free to ask in the forums what the numbers do.",
+  "DefaultEntityTrackingRange": 4,
+  "ServerChunkSize": 32,
+  "ServerChunkSizeMask": 31,
+  "RequestChunkColumnsQueueSize": 2000,
+  "ReadyChunksQueueSize": 200,
+  "ChunksColumnsToRequestPerTick": 1,
+  "ChunksToSendPerTick": 32,
+  "ChunkRequestTickTime": 40,
+  "ChunkColumnsToGeneratePerThreadTick": 7,
+  "ServerAutoSave": 300,
+  "SpawnChunksWidth": 7,
+  "TrackedEntitesPerClient": 1500,
+  "ChunkRegionSizeInChunks": 16,
+  "CalendarPacketSecondInterval": 60,
+  "ChunkUnloadInterval": 4000,
+  "UncompressedChunkTTL": 15000,
+  "CompressedChunkTTL": 45000,
+  "PlayerDesyncTolerance": 0.02,
+  "PlayerDesyncMaxIntervalls": 20.0,
+  "ChunkThreadTickTime": 10
+}
